@@ -1,0 +1,4 @@
+enum AuthEvents {
+  Authenticate,
+  UnAuthenticate
+}
